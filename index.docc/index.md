@@ -6,7 +6,7 @@
   @PageColor(indigo)
   @TitleHeading("Collab")
   @Available(platform: macOS, introduced: "1.0")
-  @CallToAction(url: "https://discord.gg/4KhTUbt3", label: "Join the collab thread (Discord)")
+  @CallToAction(url: "https://discord.com/channels/1407786883773104278/1473400809109717093", label: "Join the tkoh collab thread (Discord)")
 }
 
 Provisioned collaboration hub for tkoh × rismay.
