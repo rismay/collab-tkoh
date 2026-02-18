@@ -12,7 +12,7 @@ A simple, provisioned collaboration page.
 ## CTA
 
 - **Operator profile:** `code/mono/.clia/operators/tkoh/` (source of truth)
-- **Discord thread:** <https://discord.com/channels/1407786883773104278/1473400809109717093>
+- **Operator channel:** <https://discord.com/channels/1407786883773104278/1469579025759342748>
 
 > If you’re tkoh: start with the operator profile scaffold, then use the Discord thread to coordinate.
 
