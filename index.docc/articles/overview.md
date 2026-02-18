@@ -9,6 +9,13 @@
 
 A simple, provisioned collaboration page.
 
+## CTA
+
+- **Operator profile:** `code/mono/.clia/operators/tkoh/` (source of truth)
+- **Discord:** <https://discord.gg/4KhTUbt3>
+
+> If you’re tkoh: start with the operator profile scaffold, then use the Discord thread to coordinate.
+
 ## Working agreements (draft)
 
 - **One thread = one intent** (spin when intent changes).
